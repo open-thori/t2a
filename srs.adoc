@@ -1,0 +1,14 @@
+
+= T2A
+
+== main features.
+
+- authentication using username(or email)/paswoed or via Google.
+- find and add friends via username/public-email.
+- sending rich-text message.
+
+= technologies.
+
+- *main service*: Spring (spring 6, spring boot 3).
+- *database*: Postgresql (supabase).
+- *web-client*: Angular (v18).
